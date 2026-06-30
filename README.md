@@ -48,7 +48,7 @@ git submodule update --init --recursive
 #### Option A: Use Conda Environment (Recommended)
 
 ```bash
-conda env create -f environment.yml
+CONDA_CHANNEL_PRIORITY=flexible conda env create -f environment.yml
 conda activate vls
 ```
 
