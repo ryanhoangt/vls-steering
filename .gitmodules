@@ -9,4 +9,4 @@
 	url = https://github.com/facebookresearch/sam3.git
 [submodule "third_party/libero_pro"]
 	path = third_party/libero_pro
-	url = git@github.com:Treeeplanter/LIBERO-PRO.git
+	url = https://github.com/Treeeplanter/LIBERO-PRO.git
